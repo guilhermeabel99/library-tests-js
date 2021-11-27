@@ -1,0 +1,23 @@
+{
+  "name": "On-Leave-Intent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Peuviz",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-proposal-class-properties": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.3.1",
+    "babel-loader": "^8.2.3",
+    "jest": "^27.3.1",
+    "prettier": "^2.5.0"
+  },
+  "dependencies": {
+    "eslint-config-standard-babel": "^0.0.2"
+  }
+}
